@@ -33,7 +33,7 @@ export default class GameProvider extends Component {
       board,
       currentPlayer,
       resetBoard: this.resetBoard,
-    }
+    };
   }
 
   render() {
